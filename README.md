@@ -1,5 +1,7 @@
+
 <p><small>Best View in <a href="https://github.com/settings/appearance">Dark Mode</a> (Recommended)</small></p><br/>
 
+<img src="https://socialify.git.ci/Hunterdii/Smart-AI-Resume-Analyzer/image?custom_description=6th+Sem+Final+Year+Project+at+Parul+University+%282024-2025%29&description=1&font=Bitter&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Dark&pattern=Transparent" alt="Smart-AI-Resume-Analyzer" width="1150" />
 
 <div align="center">
 
@@ -9,39 +11,6 @@
 <img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> Smart AI Resume Analyzer is your all-in-one tool to analyze, optimize, and craft resumes that stand out, helping you land your dream job.  
 </div>
 
-
-
-
-## 📊 **GitHub Stats**
-
-<div align="center">
-
-<table align="center">
-    <thead align="center">
-        <tr>
-            <td><b>🌟 Stars</b></td>
-            <td><b>🍴 Forks</b></td>
-            <td><b>🐛 Issues</b></td>
-            <td><b>📏 Repo Size</b></td>
-            <td><b>🔔 Open PRs</b></td>
-            <td><b>🔕 Closed PRs</b></td>
-            <td><b>📈 Contributors</b></td>
-            <td><b>❤ Open Source</b></td>
-        </tr>
-     </thead>
-    <tbody>
-         <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Open PRs" src="https://img.shields.io/github/issues-pr/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Closed PRs" src="https://img.shields.io/github/issues-pr-closed/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&color=critical&logo=github"/></td>
-            <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open source"/></td>
-        </tr>
-    </tbody>
-</table>
 
   <h4>
     <a href="https://resumind.streamlit.app/">View Demo</a>
@@ -63,18 +32,6 @@
 </div>  
 
 
-## 🔗 **Helpful Links**
-
-- [![Streamlit Badge](https://img.shields.io/badge/Live%20Demo-Streamlit-orange?style=for-the-badge&logo=streamlit&logoColor=white)](https://resumind.streamlit.app/)  
-
-- [![Documentation Badge](https://img.shields.io/badge/Documentation-Request-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:het8185@gmail.com?subject=Request%20Documentation%20for%20Smart%20AI%20Resume%20Analyzer&body=Hi%20Het%20Patel,%0D%0AI%20am%20interested%20in%20learning%20more%20about%20your%20project,%20Smart%20AI%20Resume%20Analyzer.%20Here%20are%20my%20details:%0D%0A%0D%0AName:%0D%0AOrganization/College:%0D%0APurpose%20of%20request:%0D%0A%0D%0AThanks!)  
-
-- [![AI Models Badge](https://img.shields.io/badge/AI%20Models-Documentation-purple?style=for-the-badge&logo=openai&logoColor=white)](AI_MODELS.md)  
-
-- [![Contribution Guide Badge](https://img.shields.io/badge/Contribution%20Guide-Read%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer/blob/main/.github/CONTRIBUTING.md)   
-
-- [![Support Badge](https://img.shields.io/badge/Support%20%26%20Feedback-Discussion-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer/discussions)  
-  
 ## <img src="https://github.com/user-attachments/assets/a6e4d77f-56d6-4aa8-8278-0f5a18ef5eb9" width="24px"> **What Makes Us Different?**  
 
 **<img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> Next-Level Features for Success:**  
@@ -97,10 +54,6 @@
 
 **🎉 Why Use Smart Resume AI?**  
 Get real-time feedback, boost your resume's impact, and maximize your chances of getting shortlisted—all with a sleek and intuitive interface.  
-
-## <img src="https://github.com/user-attachments/assets/e5ac1371-6ac4-48b6-b95c-5ef9afaf1353" width="30"> **Live Demo**  
-👨‍💻 Try it Now: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://resumind.streamlit.app/)  
-
 
 ## <img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px">  Tech Stack 
 <details>
@@ -166,125 +119,6 @@ Get real-time feedback, boost your resume's impact, and maximize your chances of
    - Export your resume in **PDF** format, ready for submission.  This project has evolved with significant enhancements to its resume analysis capabilities:
 
 
-Follow these steps to run Smart Resume AI:  
-
-#### **Setup Instructions** 🛠️
-
-Follow the steps below to set up and run the **Smart AI Resume Analyzer** on your local machine.
-
-1. **Clone the repository:**
-
-Open a terminal and run:
-
-   ```bash
-   git clone  https://github.com/Suryansh-Tangra/Smart-AI-Resume-Analyzer
-   cd Smart-AI-Resume-Analyzer
-   ```
-
-2. **Create a Virtual Environment(Optional)**
-
-Set up a virtual environment to manage dependencies:
-
-```bash
-python -m venv venv
-```
-
-#### **Activate the Virtual Environment:**
-
-- **Windows:**
-  ```bash
-  venv\Scripts\activate
-  ```
-- **MacOS & Linux:**
-  ```bash
-  source venv/bin/activate
-  ```
-
-3. **Install dependencies:**
-
-Install the required Python packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Download the spaCy model:**
-
-Ensure that the necessary NLP model is installed:
-
-   ```bash
-   python -m spacy download en_core_web_sm
-   ```
-   
-``Congratulations 🥳😱 your set-up 👆 and installation is finished 🥳😱``
-
-
-5. **Configure Environment Variables (Mandatory for AI-Analyzer Functionality):**
-
-To enable access to the **Gemini API** used by the AI Resume Analyzer, you need to set up environment variables securely.
-
-#### ✅ Step-by-Step:
-
-1. **Create a `.env` file** inside the `utils/` directory.
-2. **Paste your Google Gemini API key** in the following format:
-
-#### 📄 Example content for `utils/.env`:
-```env
-GOOGLE_API_KEY=your_google_gemini_api_key
-```
-
-#### <img src="https://assets.codepen.io/1468070/Google+G+Icon.png" alt="Google LOGO" width="1.6%" /> Get your Gemini API Key:
-Visit  **[Google AI Studio – Gemini API Access](https://aistudio.google.com/app/apikey)** 👉 Grab and use your **own API key** — Since Mine One Have Usage Limits.
-
-
-6. **Run the application:**
-
-Start the application using Streamlit:
-
-   ```bash
-   streamlit run app.py
-   ```
-
-<details>
-  <summary>📁 Folder Structure After Adding <code>.env</code></summary>
-
-> 🔐 **Important:**  
-> - **Do not commit your `.env` file** to version control (e.g., GitHub). It should be listed in `.gitignore`.
-> - If you're collaborating, you can provide a safe `.env.example` file with dummy data.
-
-  <div align="center">  
-    <table>
-      <tr>
-        <td align="center"><b>🗂️ Folder Structure Preview 1</b></td>
-        <td align="center"><b>🗂️ Folder Structure Preview 2</b></td>
-      </tr>
-      <tr>
-        <td>
-          <img src="https://github.com/user-attachments/assets/a6636ec0-f1e6-45ed-90f5-583ecbf7f67f" alt="Folder Structure Preview 1" height="350px" width="600px">
-        </td>
-        <td>
-          <img src="https://github.com/user-attachments/assets/10fea5d7-5b9f-491e-871f-75a9ab716ebb" alt="Folder Structure Preview 2" height="355px" width="600px">
-        </td>
-      </tr>
-    </table>
-  </div>
-  
-
-</details>
-
-## Admin Login Credentials
-
-### 🔹 New Login Credentials:
-   - **Username:**
-```python3
-admin@example.com
-```
-   - **Password:**
-```python3
-admin123
-```
-
-### 🔹 Admin Panel Access:
    - The **Admin Section** will be visible **only after login**, right below the **Dashboard** section.
 
 <!--### Deploy to Streamlit Cloud
@@ -349,39 +183,6 @@ Smart-AI-Resume-Analyzer/
 
 If you encounter any issues, please [open an issue](https://github.com/yourusername/Smart-AI-Resume-Analyzer/issues) on GitHub.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
--->
-
-## Known Bug 🚨 Autofill Glitch in Resume Builder!  
-
-### What's Happening? 🤔  
-If you're using the **Browser's (e.g., Chrome, Edge, etc.) Autofill** feature to quickly fill out your **Name**, **Email**, and **Phone** details in our **Smart AI Resume Analyzer**, you might encounter this error in generating Resume:  
-**"⚠️ Please enter your email address."**  
-
-Even though the email field appears to be filled, this is a small bug in the **Resume Builder Feature** where our system doesn't always recognize inputs from autofill.
-
-### Quick Fix 🛠️  
-Don't worry—it's a simple fix!  
-1. **Edit the email(or Any) field manually:**  
-   - Remove one character or number.  
-   - Type it back in.  
-2. Voilà! The error will disappear, and you can generate your resume smoothly.  
-> _(“Voilà” means "there you have it!" or "problem solved!")_
-
-### Why Does This Happen? 🌐  
-This is a **known issue with the resume builder feature**, where the autofill behavior of browsers (e.g., Chrome, Edge, etc.) doesn't trigger the necessary validation for some input fields. By manually editing the email, the system recognizes it correctly.  
-
-We're actively working on a permanent fix to ensure your experience is seamless. Thank you for your understanding and support! 🙏  
-
-
 ## 🎯 **Why Choose Smart Resume AI?**  
 
 ✨ **Tailored for You**  
@@ -396,13 +197,6 @@ AI does the heavy lifting, helping you create a winning resume in minutes.
 📈 **Better Chances, Every Time**  
 Get actionable feedback and align your resume to job descriptions effortlessly.  
 
-
-## <img src="https://github.com/user-attachments/assets/1fd5ec3c-a43f-4df6-b9ec-31102a6b6564" width="30px"> **Contributing**  
-
-Join the mission! Here's how:  
-1. Fork the repository.  
-2. Create a new branch for your feature: `git checkout -b feature-name`.  
-3. Push changes and submit a Pull Request.  
 
 ##  <img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px> **Why Users Love Smart Resume AI**  
 
@@ -420,40 +214,6 @@ Join the mission! Here's how:
 | 📈 **AI-Driven Insights**      | Receive smart suggestions for optimizing content, formatting, and keywords.                    |  
 | 🎯 **Role-specific Guidance**  | Tailored recommendations for matching job descriptions and standing out in applications.        |  
 
-## 🎥 **Quick Glance**  
-
-<div align="center">  
-<table>  
-<tr>  
-<td align="center"><b>
-   
-   [🏠 HOME](https://resumind.streamlit.app/)
-   </b></td>  
-<td align="center"><b>
-   
-   [🔍 RESUME ANALYZER(Below Example Analysis of Backend Deeveloper)](https://resumind.streamlit.app/)
-</b></td>  
-</tr>  
-<tr>  
-<td><img src="https://github.com/user-attachments/assets/2dc1b44d-7eb6-4371-81f9-3a140f83064c" alt="🏠 HOME" width="500px"></td>  
-<td><img src="https://github.com/user-attachments/assets/b9f4c7b0-fbd6-40c4-9d8b-231d9fdd91a7" alt="🔍 RESUME ANALYZER" width="500px"></td>  
-</tr>  
-<tr>  
-<td align="center"><b>
-   
-   [🔍 RESUME ANALYZER(Score And Recommendations)](https://resumind.streamlit.app/)
-   </b></td>  
-<td align="center"><b>
-   
-   [🔍 RESUME ANALYZER(According To Roles Recommendations)](https://resumind.streamlit.app/)
-   </b></td>  
-</tr>  
-<tr>  
-<td><img src="https://github.com/user-attachments/assets/02b6d379-a04f-421e-9377-1bb077324f17" alt="🔍 RESUME ANALYZER(Score And Recommendations Based on Role Selected)" width="500px"></td>  
-<td><img src="https://github.com/user-attachments/assets/830e738e-a76b-4818-b426-d98189d8c441" alt="🔍 RESUME ANALYZER(Score And Recommendations Based on Role Selected)" width="500px"></td>  
-</tr>  
-
-<tr>  
 <td align="center"><b>
    
    [🔍 RESUME ANALYZER(According To Roles Course Recommendations)](https://resumind.streamlit.app/)
@@ -513,74 +273,6 @@ Join the mission! Here's how:
 </div>  
 
 
-## 🎥 **Quick Glance – Version 2.0 (AI-Powered Resume Analyzer)**  
-
-<div align="center">  
-<table>  
-
-<tr>  
-<td align="center"><b>  
-   
-   [🔍 AI Resume Analysis (Custom Job Description)](https://resumind.streamlit.app/)
-   </b></td>  
-<td align="center"><b>  
-   
-   [📊 AI Resume Score & Statistics](https://resumind.streamlit.app/)
-</b></td>  
-</tr>  
-
-<tr>  
-<td><img src="https://github.com/user-attachments/assets/2105d65a-f01c-4af2-995c-fa29854a4fa1" alt="🔍 AI Resume Analysis with Custom Job Description" width="500px"></td>  
-<td><img src="https://github.com/user-attachments/assets/98f3d612-a167-4fbd-a1e2-a0a122d101a6" alt="📊 AI Resume Score & Statistics" width="500px"></td>  
-</tr>  
-
-<tr>  
-<td align="center"><b>  
-   
-   [📄 AI-Generated PDF Resume Report](https://resumind.streamlit.app/)
-   </b></td>  
-<td align="center"><b>  
-   
-   [📊 AI Resume Analysis Insights](https://resumind.streamlit.app/)
-   </b></td>  
-</tr>  
-
-<tr>  
-<td><img src="https://github.com/user-attachments/assets/e74aa01f-36e3-489a-8873-1807389007de" alt="📄 AI-Generated PDF Resume Report" width="500px"></td>  
-<td><img src="https://github.com/user-attachments/assets/9c5fbaf9-bb32-468c-b709-8e795d3f1796" alt="📊 AI Resume Analysis Insights" width="500px"></td>  
-</tr>  
-
-<tr>  
-<td align="center"><b>  
-   
-   [🔗 LinkedIn Job Scraper (Search Results)](https://resumind.streamlit.app/)
-   </b></td>  
-<td align="center"><b>  
-   
-   [🏢 LinkedIn Scraper (Job Listings UI)](https://resumind.streamlit.app/)
-   </b></td>  
-</tr>  
-
-<tr>  
-<td><img src="https://github.com/user-attachments/assets/1fedb318-03d9-4cd6-8b40-20714cb53b48" alt="🔗 LinkedIn Job Scraper (Search Results)" width="500px"></td>  
-<td><img src="https://github.com/user-attachments/assets/46081404-8cad-4d72-b921-e98103b9918e" alt="🏢 LinkedIn Scraper (Job Listings UI)" width="500px"></td>  
-</tr>  
-
-</table>  
-</div>  
-
-> Note: **Time Taking For scraping so have Patience**
-
-
-
-## 🌟 **GitHub Repo**  
+##  **GitHub Repo**  
 
 Explore the code, contribute, or drop a <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:20px; color: #FFD700" alt="Star GIF"> : [Smart Resume AI Repository](https://github.com/Suryansh-Tangra/Smart-AI-Resume-Analyzer)  
-
-## 🛡️ Maintainer  
-
-> **_This repository is maintained by [Hunterdii](https://github.com/Suryansh-Tangra/Smart-AI-Resume-Analyzer)._**  
-> Have suggestions? Feel free to reach out to [me via email](mailto:het8185@gmail.com). 📧
-
-
-
