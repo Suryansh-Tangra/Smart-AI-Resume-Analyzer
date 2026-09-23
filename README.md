@@ -18,7 +18,7 @@
      </small>
   </p>
   <small align="justify"><img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> A Project Submitted for the  
-    <a href="https://paruluniversity.ac.in/">Chitkara University</a> during academic year 2025-26
+    <a href=https://www.chitkara.edu.in/>Chitkara University</a> during academic year 2025-26
   </small>
 </div><br/><br/>
 </div>  
